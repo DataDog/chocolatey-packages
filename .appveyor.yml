@@ -22,6 +22,13 @@ environment:
   api_key:
     secure: XaDFMXRWvZYDMmjXSJLfnFMf6+soaIU42O2TjzqhQ6N1f6Hl3ZiLLtHiwoXdhHtH
 
+  # Github info - to push build result on a Gist
+  github_username: simnyc 
+  github_user_repo: simnyc/chocolatey-packages
+  gist_id: 4c97dd2fb3837d302ee0fbd5750e7f74
+  github_api_key:
+    secure: aWNwIAhASffAwbC8S4RBwKrFZPKtUHDGg89pCe0t79mj7BMsuN49pyEns1Wh0Pu0
+
 init:
 - git config --global user.email "chocolatey@realdimensions.net"
 - git config --global user.name "Chocolatey"

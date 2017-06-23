@@ -14,6 +14,10 @@ function global:au_SearchReplace {
     }
 }
 
+function global:au_BeforeUpdate {
+    Get-RemoteFiles -Purge
+}
+
 function global:au_GetLatest {
     $download_page = Invoke-WebRequest -Uri $release_url
 	$object = ($download_page.Content | ConvertFrom-Json)
