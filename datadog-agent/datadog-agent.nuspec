@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>datadog-agent</id>
-    <version>5.14.1</version>
+    <version>5.17.1</version>
     <packageSourceUrl>https://github.com/simnyc/chocolatey-packages</packageSourceUrl>
     <owners>Simon Morand</owners>
     <title>Datadog Agent</title>
