@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>datadog-agent</id>
-    <version>6.13.0</version>
+    <version>6.10.1</version>
     <packageSourceUrl>https://github.com/simnyc/chocolatey-packages</packageSourceUrl>
     <owners>Datadog Inc.</owners>
     <title>Datadog Agent</title>
@@ -11,7 +11,7 @@
     <iconUrl>https://datadog-prod.imgix.net/img/dd_logo_70x75.png</iconUrl>
     <licenseUrl>https://github.com/DataDog/datadog-agent/blob/master/LICENSE</licenseUrl>
     <docsUrl>http://docs.datadoghq.com/guides/basic_agent_usage/</docsUrl>
-    <bugTrackerUrl>https://github.com/DataDog/dd-agent/issues</bugTrackerUrl>
+    <bugTrackerUrl>https://github.com/DataDog/datadog-agent/issues</bugTrackerUrl>
     <tags>datadog agent monitoring admin</tags>
     <summary>Datadog Agent for Microsoft Windows</summary>
     <description>The Datadog Agent faithfully collects events and metrics and brings them to Datadog on your behalf so that you can do something useful with your monitoring and performance data.</description>
