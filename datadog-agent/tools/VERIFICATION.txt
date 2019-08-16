@@ -1,0 +1,4 @@
+
+VERIFICATION
+
+This package is distributed by Datadog Inc, the original author of the datadog-agent.
